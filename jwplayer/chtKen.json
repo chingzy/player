@@ -1,0 +1,14 @@
+   {
+    "playlist": [{
+		"image":"image.jpg",
+         "sources":[ 
+            {  
+               "file":"//i-b4f5fa2b.stream.kamcord.com/live/3996402/playlist.m3u8?4f0f707d",
+               "type":"hls"
+            },
+            {  
+               "file":"//stream.kamcord.com/live/3996402?ea45e0c5",
+               "type":"rtmp"
+            }
+    }
+	}
