@@ -1,4 +1,5 @@
-const musicGuid =[
+<script>
+  const musicGuid =[
   {
     "mair": "nomal",
     "date": "",
@@ -162,3 +163,4 @@ function setup(){
     document.getElementById("app_guid").innerHTML =`${musicGuid.map(guidmap).join("")}Tomorrow<BR/> ${musicGuid.map(guidtmrmap).join("")}`;
     setTimeout(function(){document.getElementById("ad_info").innerHTML =``;},60000);
 }
+</script>
